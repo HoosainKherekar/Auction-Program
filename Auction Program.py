@@ -1,6 +1,6 @@
 import art
 print(art.logo)
-print ("Welcome to the auction program")
+print ("Welcome to The Silent Auction program")
 
 def find_highest_bidder(bidding_dictionary):
     winner = ""
